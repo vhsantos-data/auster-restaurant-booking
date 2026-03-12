@@ -1,4 +1,4 @@
-# 🍽️ Auster — Restaurant Reservation Platform
+#  Auster — Restaurant Reservation Platform
 
 > A restaurant booking platform designed for the Latin American market, targeting premium dining experiences.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 About
+##  About
 
 **Auster** (from *Austerity*) was born from a market gap we identified: there is no strong restaurant reservation platform focused on Latin America. Existing solutions are international with limited coverage in the region, especially for premium dining.
 
@@ -24,7 +24,7 @@ A web platform where users can discover premium restaurants, make reservations, 
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -41,23 +41,23 @@ A web platform where users can discover premium restaurants, make reservations, 
 
 ---
 
-## ✨ Features
+##  Features
 
 **For Customers:**
-- 🔍 Browse and search restaurants by cuisine, location, and rating
-- 📅 Make reservations (date, time, number of guests)
-- 📍 Geolocation — find restaurants nearby
-- 👤 User registration and authentication
-- ❓ FAQ and Help center
+-  Browse and search restaurants by cuisine, location, and rating
+-  Make reservations (date, time, number of guests)
+-  Geolocation — find restaurants nearby
+-  User registration and authentication
+-  FAQ and Help center
 
 **For Restaurants:**
-- 🏢 Business portal for restaurant owners
-- 📊 Dashboard for managing reservations
-- 💎 Auster+ premium subscription plans
+-  Business portal for restaurant owners
+-  Dashboard for managing reservations
+-  Auster+ premium subscription plans
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 auster-restaurant-booking/
@@ -95,7 +95,7 @@ auster-restaurant-booking/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -107,7 +107,7 @@ auster-restaurant-booking/
 
 ---
 
-## 🔄 Development Methodology
+##  Development Methodology
 
 The project followed **Scrum** with 2-week sprints and 4 MVPs:
 
@@ -122,7 +122,7 @@ Each sprint delivered a tangible increment reviewed and improved based on user t
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - PHP 7.4+
@@ -187,7 +187,7 @@ The full TCC presentation is available in [`docs/TCC-Presentation.pdf`](docs/TCC
 
 ---
 
-## 🎯 Market Analysis
+##  Market Analysis
 
 | Platform | LatAm Coverage | Premium Focus | Local Restaurants |
 |----------|:-:|:-:|:-:|
@@ -198,7 +198,7 @@ The full TCC presentation is available in [`docs/TCC-Presentation.pdf`](docs/TCC
 
 ---
 
-## 📈 Future Roadmap
+##  Future Roadmap
 
 - [ ] React/Next.js frontend migration
 - [ ] RESTful API with Node.js or Laravel
@@ -211,7 +211,7 @@ The full TCC presentation is available in [`docs/TCC-Presentation.pdf`](docs/TCC
 
 ---
 
-## 📋 Development Methodology
+##  Development Methodology
 
 The project followed **Scrum** with 2-week sprints and 4 MVPs:
 
@@ -224,7 +224,7 @@ The project followed **Scrum** with 2-week sprints and 4 MVPs:
 
 ---
 
-## 💰 Business Model
+##  Business Model
 
 **Auster+** subscription plans for restaurants:
 
@@ -236,7 +236,7 @@ The project followed **Scrum** with 2-week sprints and 4 MVPs:
 
 ---
 
-## 👥 Team
+##  Team
 
 Developed as a Final Year Thesis (TCC) at FITO — Integrated Technical High School in Systems Development.
 
