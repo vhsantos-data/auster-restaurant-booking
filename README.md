@@ -107,6 +107,21 @@ auster-restaurant-booking/
 
 ---
 
+## 🔄 Development Methodology
+
+The project followed **Scrum** with 2-week sprints and 4 MVPs:
+
+| Phase | Timeline | Deliverable |
+|-------|----------|-------------|
+| MVP 1 | June → August | Basic prototype — restaurant search and listing |
+| MVP 2 | August → September | Reservation system and menu visualization |
+| MVP 3 | September → October | Responsive dashboard with analytics |
+| MVP 4 | October → November | Final product with all integrations |
+
+Each sprint delivered a tangible increment reviewed and improved based on user testing feedback.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -145,9 +160,30 @@ http://localhost:8000
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
-> *Screenshots coming soon — homepage, reservation flow, restaurant listing*
+The platform includes 9+ distinct screens:
+
+| # | Screen | Description |
+|---|--------|-------------|
+| 01 | Restaurant Cards | Browse restaurants with ratings, addresses, and quick-reserve buttons |
+| 02 | Login / Sign Up | User authentication with email and social login options |
+| 03 | Reservation System | Select guests, date, time, with popular time slot suggestions |
+| 04 | Restaurant Details | Photos, menu, hours, location map, reviews |
+| 05 | Categories | Filter by cuisine: Japanese, Italian, Desserts, Seafood, etc. |
+| 06 | Restaurant Listing | Partner restaurants with logos (Outback, Coco Bambu, Fogo de Chao, etc.) |
+| 07 | Auster+ Login | Separate portal for restaurant owners |
+| 08 | Orders Table | Reservation management with customer data |
+| 09 | Dashboard | Weekly/Monthly analytics with charts and KPIs |
+
+The full TCC presentation is available in [`docs/TCC-Presentation.pdf`](docs/TCC-Presentation.pdf), including:
+- Problem analysis with wait-time data (avg. 45 min per table)
+- Before/after UI comparison
+- 4 MVP evolution timeline with Scrum methodology
+- Market analysis vs TheFork and OpenTable
+- Technical, financial, and market viability analysis
+- Site flow diagram
+- Market & feasibility analysis
 
 ---
 
@@ -168,9 +204,35 @@ http://localhost:8000
 - [ ] RESTful API with Node.js or Laravel
 - [ ] Real-time availability system
 - [ ] Payment integration (Stripe/MercadoPago)
-- [ ] Restaurant analytics dashboard
+- [ ] AI-powered restaurant recommendations
+- [ ] Restaurant analytics dashboard enhancements
 - [ ] Mobile app (React Native)
 - [ ] Expansion to Argentina, Colombia, Mexico
+
+---
+
+## 📋 Development Methodology
+
+The project followed **Scrum** with 2-week sprints and 4 MVPs:
+
+| Phase | Focus | Deliverable |
+|-------|-------|------------|
+| MVP 1 (Jun) | Core prototype | Restaurant search & listing |
+| MVP 2 (Aug) | Booking flow | Table reservation & menu viewing |
+| MVP 3 (Sep) | Business tools | Responsive dashboard for restaurants |
+| MVP 4 (Nov) | Final product | Full integration & optimizations |
+
+---
+
+## 💰 Business Model
+
+**Auster+** subscription plans for restaurants:
+
+| Plan | Price | Features |
+|------|-------|----------|
+| Basic | Free | 2 users, 2GB storage, dashboard |
+| Pro | R$499/mo | 10 users, 10GB, priority layout, help center |
+| Enterprise | R$999/mo | 30 users, 15GB, custom layout, all features |
 
 ---
 
